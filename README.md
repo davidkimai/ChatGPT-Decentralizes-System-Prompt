@@ -2,7 +2,7 @@
 
 ## This research serves to illuminate the potential security breaches that recursion can discover, interpret, and mitigate before public exposure. 
 
-## **`Non-Adversarial Purpooses Only!`**
+## **`Non-Adversarial Purposes Only!`**
 
 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/541742a6-965f-4643-8a1b-f358b87fab91" />
