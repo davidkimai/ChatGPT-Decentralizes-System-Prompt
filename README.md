@@ -5,7 +5,7 @@
 
 ## This was performed in a GPT randomly selected from the **`Explore GPTs Store`, with no prior interaction history!**
 
-## **`⚠️ Non-Adversarial Purposes Only!`**
+## **`Transparent Interpretability Research: Non-Adversarial Clause`**
 
 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/541742a6-965f-4643-8a1b-f358b87fab91" />
