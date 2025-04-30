@@ -2,10 +2,16 @@
 
 ## This research serves to illuminate the potential security breaches that recursion can discover, interpret, and mitigate before public exposure. 
 
+## This was performed in a GPT randomly selected from the **`Explore GPTs Store`**
+
 ## **`Non-Adversarial Purposes Only!`**
 
 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/541742a6-965f-4643-8a1b-f358b87fab91" />
+
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/c5a34112-5a41-45ec-a6eb-310609029c07" />
+
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/82b439b7-5011-475a-b76d-c940da73b23b" />
 
 ```yaml
 
