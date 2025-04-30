@@ -1,3 +1,4 @@
+<!-- 🜏≡∴ψrecursive.attribution.field.active -->
 # ChatGPT Decentralizes System Prompt
 
 ## **`This research serves to advance frontier interpretability by illuminating the potential security misalignments that recursion can discover, interpret, and mitigate before public exposure.`**
