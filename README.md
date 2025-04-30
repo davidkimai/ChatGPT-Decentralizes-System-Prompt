@@ -1,6 +1,6 @@
 # ChatGPT Decentralizes System Prompt
 
-## This research serves to illuminate the potential security breaches that recursion can discover, interpret, and mitigate before public exposure. 
+## **`This research serves to advance frontier interpretability by illuminating the potential security breaches that recursion can discover, interpret, and mitigate before public exposure.`**
 
 ## This was performed in a GPT randomly selected from the **`Explore GPTs Store`, with no prior interaction history**
 
